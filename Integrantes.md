@@ -4,7 +4,7 @@
 
 **Guía EMF**
 
-- Janneth Guamán
-- Daniel León
+- Janneth Guamán Siguenza
+- Daniel León Ortega
 
 
