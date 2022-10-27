@@ -1,6 +1,6 @@
 # Archivo genmodel
 
-**Una vez generado el modelo Entidad-Relación, en la parte izquierde de la pantalla hacer doble clic sobre el archivo practicaEclipse.genmodel, en el primer archivo que muestra dar clic derecho y se mostrarás las siguientes opciones:**
+**Una vez generado el modelo Entidad-Relación, en la parte izquierda de la pantalla hacer doble clic sobre el archivo practicaEclipse.genmodel, en el primer archivo que muestra dar clic derecho y se mostrarás las siguientes opciones:**
 
 - Generate Model Code
 - Generate Edit Core
@@ -42,7 +42,7 @@
 
 # RUN AS
 
-**En el proyecto editor creado, dar clic derecho y seleccionar la opción Run As y seleccionar Ecipse Application:**
+**En el proyecto editor creado, dar clic derecho y seleccionar la opción Run As y seleccionar Eclipse Application:**
 
 ![Archivo genmodel EMF](/images/31.jpg)
 
