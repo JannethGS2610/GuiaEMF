@@ -1,6 +1,6 @@
 # Prerequisitos
 
-- Instalar [IDE Eclipse][1]
+- Instalar IDE Eclipse https://www.eclipse.org/downloads/
 - Conexión a internet
 
 
