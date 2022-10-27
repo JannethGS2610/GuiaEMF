@@ -16,8 +16,8 @@
 
 **Seleccionar en la parte inferiror las siguientes opciones que se encuentran dentro de Modeling:**
 
-**- Ecore Diagram Editor SDK**
-**- EMF - Eclipse Modeling Framework Xcore SDK**
+* Ecore Diagram Editor SDK
+* EMF Eclipse Modeling Framework Xcore SDK
 
 ![Instalación EMF](/images/7.jpg)
 
@@ -33,6 +33,6 @@
 
 ![Instalación EMF](/images/10.jpg)
 
-**Una vez finalizada la instalación, muestra un mensaje para reiniciar el IDE eclipse
+**Una vez finalizada la instalación, muestra un mensaje para reiniciar el IDE eclipse**
 
 ![Instalación EMF](/images/11.jpg)
