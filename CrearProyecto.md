@@ -24,6 +24,6 @@
 
 ![Crear Proyecto EMF](/images/17.jpg)
 
-**Finalmente se mostrará el proyecto creado en la parte izquierda de la ventana, donde se podrá crear los modelos requeridos:**
+**Finalmente mostrará el proyecto creado en la parte izquierda de la ventana, donde se podrá crear los modelos requeridos:**
 
 ![Crear Proyecto EMF](/images/18.jpg)
