@@ -1,10 +1,10 @@
 # Integrantes:
 
+***Universidad Nacional de Loja - Maestría en Ingeniería en Software***
 
-**Tarea**
+**Guía EMF**
 
 - Janneth Guamán
 - Daniel León
 
-# Estuiantes de la Universidad Nacional de Loja
 
