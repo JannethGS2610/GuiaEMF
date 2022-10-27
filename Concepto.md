@@ -3,7 +3,10 @@
 
 Fuente: https://www.eclipse.org/emf
 
+![EMF vs Java](/images/1.jpg)
 
 EMF también ha sido un estándar estable para muchas otras tecnologías de modelado. Recomendamos usar EMF para cualquier modelo de datos estructurados que desee crear en Eclipse, especialmente si se almacena, muestra y modifica en interfaces de usuario.
 
 El flujo de trabajo básico de EMF es muy pragmático; se crea y define un modelo en el formato Ecore, que es básicamente un subconjunto de diagramas de clase UML. A partir de un modelo Ecore, puede generar código Java.
+
+![EMF vs Java](/images/2.jpg)
