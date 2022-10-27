@@ -1,8 +1,12 @@
 # Como instalar EMF
 
+Abrir IDE Eclipse: 
+
 ![Instalación EMF](/images/3.jpg)
 
 ![Instalación EMF](/images/4.jpg)
+
+En el menú Help, seleccionar la opción Install New Software
 
 ![Instalación EMF](/images/5.jpg)
 
