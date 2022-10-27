@@ -1,4 +1,4 @@
-# Ejemplo EMF Eclipse
+# Diagrama Entidad-Relación
 
 **En parte derecha de la pantalla, se visualiza la ventana Pallete, donde se encuentran las herramientas para realizar el modelo entidad-relación**
 
